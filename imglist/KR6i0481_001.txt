@@ -1,0 +1,5 @@
+001-0719c23	TKD 33-1181b	buddhist/K-koreana/33-tif/1100-1199/33_1181_B.TIF
+001-0720a13	TKD 33-1181c	buddhist/K-koreana/33-tif/1100-1199/33_1181_C.TIF
+001-0720b01	TKD 33-1182a	buddhist/K-koreana/33-tif/1100-1199/33_1182_A.TIF
+001-0720a00	T 001-0720a	buddhist/T-taisho/T17/07/T17-0720.png
+001-0720b00	T 001-0720b	buddhist/T-taisho/T17/07/T17-0720.png
