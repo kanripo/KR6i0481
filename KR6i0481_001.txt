@@ -1,21 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:39.287404
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:44
 #+TITLE: 佛說十號經
 #+PROPERTY: CBETA_ID T17n0782
 #+PROPERTY: ID KR6i0481
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 782
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0481_T_001-0719c> 
 #+PROPERTY: JUAN 1
 ¶
-No.782¶
-
- 《佛說十號經》¶
+No. 782¶
+《佛說十號經》¶
 ¶
-西天譯經三藏朝散大夫試鴻臚少卿¶
-明教大師臣天息災奉　詔譯¶
+西天譯經三藏朝散大夫試鴻臚少卿明教大師臣天息災奉　詔譯¶
 
 如來、應供、正等覺、明行足、善逝、世間解無上士、¶
 調御丈夫、天人師、佛、世尊。
@@ -23,7 +21,7 @@ No.782¶
 阿難白言：「云何如¶
 來？」
 
-佛告：「苾芻！我昔因地為菩薩時，歷修眾行，¶
+佛告苾芻：「我昔因地為菩薩時，歷修眾行，¶
 為求無上正等正覺，今得菩提涅槃一切真¶
 實，以八聖道正見所證，名為如來；如過去¶
 正等正覺，調伏息心，得至涅槃，故名如來。」¶
